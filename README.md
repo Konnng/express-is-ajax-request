@@ -24,7 +24,7 @@ var router = express.Router();
 router.get('/foo', function (req, res, next){
 
 	if (req.isAjaxRequest())
-		res.send('request made throught ajax.');
+		res.send('request made through ajax.');
 
 	res.send('normal http request');
 });
