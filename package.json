@@ -1,0 +1,22 @@
+{
+  "name": "express-is-ajax-request",
+  "version": "1.0.0",
+  "description": "Express middleware to help detecting Ajax Requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konnng/express-is-ajax-request.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Konnng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Konnng/express-is-ajax-request/issues"
+  },
+  "homepage": "https://github.com/Konnng/express-is-ajax-request#readme"
+}
