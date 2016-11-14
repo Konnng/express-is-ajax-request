@@ -1,6 +1,6 @@
 {
   "name": "express-is-ajax-request",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Express middleware to help detecting Ajax Requests",
   "main": "index.js",
   "scripts": {

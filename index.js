@@ -10,5 +10,7 @@ module.exports = function (req, res, next) {
 		return req.xhr || /json/i.test(req.headers.accept);
 	};
 
+	req.is_ajax_request = req.isAjaxRequest();
+
 	next();
 };
